@@ -1,0 +1,1 @@
+var theText='Bu bir test yayinidir'
